@@ -6950,9 +6950,9 @@ memory-fs@^0.5.0:
     readable-stream "^2.0.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
@@ -8963,6 +8963,11 @@ react-error-overlay@^6.0.7:
   version "6.0.7"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.7.tgz#1dcfb459ab671d53f660a991513cb2f0a0553108"
   integrity sha512-TAv1KJFh3RhqxNvhzxj6LeT5NWklP6rDr2a0jaTfsZ5wSZWHOGeqQyejUp3xxLfPt2UpyJEcVQB/zyPcmonNFA==
+
+react-firebase-hooks@^2.1.1:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/react-firebase-hooks/-/react-firebase-hooks-2.2.0.tgz#a2cea46d3da94619e8a316b85173638698ef7d2b"
+  integrity sha512-bwBaCYa8M+bpTqD0masAPGDTzxiTkGbyxv363hyR+NeNH1HbezPll6G7aMIGl+7OOYRPzfdmpkk72zc3VgXfEw==
 
 react-is@^16.12.0, react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.1"
@@ -11290,3 +11295,8 @@ yargs@^13.3.0:
     which-module "^2.0.0"
     y18n "^4.0.0"
     yargs-parser "^13.1.2"
+
+zingchart@^2.9.0:
+  version "2.9.4"
+  resolved "https://registry.yarnpkg.com/zingchart/-/zingchart-2.9.4.tgz#5322e24efa85b62327b85f126879fd0d2545270f"
+  integrity sha512-cpUiaqlfSdkatx69FWLSeteckQlRcrARHt0qsCUIxAUifLVdwVrDTm8r5GL2qkYzT1AyQqhPHqmF2crGyLo23w==
